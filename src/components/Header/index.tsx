@@ -1,8 +1,6 @@
-import { NextPage } from "next";
-
 import styles from './styles.module.scss';
 
-const Header: NextPage = () => {
+export default function Header() {
   return (
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
@@ -17,4 +15,3 @@ const Header: NextPage = () => {
   )
 }
 
-export default Header;
