@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "icon": "/assets/services/ata_notarial.png",
+      "title": "Ata Notarial",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/autenticacao_copias.png",
+      "title": "Autenticação de Cópias",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/autenticacao_copias_eletronicas.png",
+      "title": "Autenticação de Cópias Eletrônicas",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/autorizacao_viagem_menor.png",
+      "title": "Autorização de Viagem para Menores",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/conciliacao_mediacao.png",
+      "title": "Conciliação e Mediação",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/emancipacao_menores.png",
+      "title": "Emancipação de Menores",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/procuracao_publica.png",
+      "title": "Procuração Pública",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/reconhecimento_firma.png",
+      "title": "Reconhecimento de Firma",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    },
+    {
+      "icon": "/assets/services/reconhecimento_sinal_publico.png",
+      "title": "Reconhecimento de Sinal Público",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nibh tellus, lacinia vitae sodales sit amet, aliquet non lorem. Proin eu purus ut urna sodales ultrices quis ac justo. Pellentesque viverra augue quis turpis lacinia volutpat. Donec id erat elit. Lorem"
+    }
+  ]
+}
