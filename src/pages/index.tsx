@@ -34,7 +34,7 @@ const Home: NextPage = () => {
           parallax={true}
           slidesPerView={1}
           loop={true}
-          autoplay={true}
+          autoplay={{"delay": 3000, "disableOnInteraction": false }}
           simulateTouch={true}
           pagination={{"clickable": true}}
           navigation={true}
