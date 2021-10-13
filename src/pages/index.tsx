@@ -12,6 +12,7 @@ import ServicesCard from '../components/ServicesCard';
 
 import styles from '../styles/home.module.scss';
 import "swiper/css";
+// import "swiper/css/bundle";
 import "swiper/css/pagination"
 import "swiper/css/navigation"
 
@@ -28,12 +29,15 @@ const Home: NextPage = () => {
 
       <div className={styles.banner}>
         <Swiper
-          spaceBetween={30}
-          centeredSlides={true}
-          autoplay={{"delay": 3000,"disableOnInteraction": false}}
+          observer={true}
+          observeParents={true}
+          parallax={true}
+          slidesPerView={1}
+          loop={true}
+          autoplay={true}
+          simulateTouch={true}
           pagination={{"clickable": true}}
           navigation={true}
-          className={styles.swiper}
         >
           <SwiperSlide className={styles['swiper-slide']}>
             <img src="/images/b1.png" alt="" />
