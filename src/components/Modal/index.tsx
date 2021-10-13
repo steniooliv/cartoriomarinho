@@ -1,19 +1,13 @@
-import React, { Key, useState } from "react";
 import ReactModal from "react-modal";
+import { ModalProps } from "../../@types";
 
 import styles from './styles.module.scss';
 
 import data from '../../services/data.json';
 
-interface ModalProps{
-  id: number,
-  isOpen: boolean
-  handleClose: () => void 
-}
-
 export default function Modal({id, isOpen, handleClose}: ModalProps) {
 
-  const description = data.items[id].description.split("\r\n", 5000);
+  const description = data.items[id].description.split("\r\n", 50000);
 
   return (
     <ReactModal
@@ -38,7 +32,6 @@ export default function Modal({id, isOpen, handleClose}: ModalProps) {
               <p>{p}<br/><br/></p>
             ))
           }
-          {/* <p>{data.items[id].description}</p> */}
         </div>
       </article>
     </ReactModal>

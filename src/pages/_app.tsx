@@ -3,7 +3,6 @@ import type { AppProps } from 'next/app'
 import Header from '../components/Header'
 
 import '../styles/global.scss';
-
 import "swiper/css/bundle";
 
 function MyApp({ Component, pageProps }: AppProps) {
@@ -13,7 +12,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Header />
 
       <Component {...pageProps} />
-
     </>
   )
 }

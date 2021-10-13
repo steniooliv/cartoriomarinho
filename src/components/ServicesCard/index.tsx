@@ -1,15 +1,11 @@
 import { useState } from 'react';
+import { ServicesCardProps } from '../../@types';
+
 import Modal from '../Modal';
+
 import styles from './styles.module.scss';
 
-interface Props {
-  index: number
-  icon: string,
-  title: string,
-  description: string
-}
-
-export default function ServicesCard(props: Props) {
+export default function ServicesCard(props: ServicesCardProps) {
 
   const [isOpen, setIsOpen] = useState(false);
 
@@ -20,7 +16,6 @@ export default function ServicesCard(props: Props) {
   function handleModalClose() {
     setIsOpen(false);
   }
-
 
   return (
     <>
