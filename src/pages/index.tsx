@@ -51,6 +51,14 @@ const Home: NextPage = () => {
             <img src="/images/b3.png" alt="" />
           </SwiperSlide>
 
+          <SwiperSlide className={styles['swiper-slide']}>
+            <img src="/images/b4.png" alt="" />
+          </SwiperSlide>
+
+          <SwiperSlide className={styles['swiper-slide']}>
+            <img src="/images/b5.png" alt="" />
+          </SwiperSlide>
+
         </Swiper>
       </div>
 
