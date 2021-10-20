@@ -12,7 +12,6 @@ import ServicesCard from '../components/ServicesCard';
 
 import styles from '../styles/home.module.scss';
 import "swiper/css";
-// import "swiper/css/bundle";
 import "swiper/css/pagination"
 import "swiper/css/navigation"
 
@@ -40,23 +39,23 @@ const Home: NextPage = () => {
           navigation={true}
         >
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b1.png" alt="" />
+            <img src="/images/b1.webp" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b2.png" alt="" />
+            <img src="/images/b2.webp" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b3.png" alt="" />
+            <img src="/images/b3.webp" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b4.png" alt="" />
+            <img src="/images/b4.webp" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b5.png" alt="" />
+            <img src="/images/b5.webp" alt="" />
           </SwiperSlide>
 
         </Swiper>
@@ -76,7 +75,7 @@ const Home: NextPage = () => {
         <h2 id="about">QUEM SOMOS</h2>
 
         <div className={styles.about}>
-          <img src="/images/about.png" alt="Imagem do Cartório Marinho" />
+          <img src="/images/about.webp" alt="Imagem do Cartório Marinho" />
           <p>
             <p>— Tradição!</p>
             Desde 1883 o Cartório do Segundo Ofício de Notas – “Cartório Marinho” presta serviços ao público na área notarial, com Escrituras Públicas de Compra e Venda, Escritura Pública de Reconhecimento de Paternidade, Escritura Pública de Emancipação, Procurações Públicas, Testamentos Públicos, Testamentos Cerrados, Inventários, Autenticação de Documento, Reconhecimento de Firmas, Atas Notariais, Autenticações Eletrônicas, Autorizações para Viagens entre outros atos notariais. <br />
@@ -96,19 +95,19 @@ const Home: NextPage = () => {
           <div className={styles['contact-detail']}>
             <img src="/assets/phone.png" alt="Telefone" />
             <h1>Telefone</h1>
-            <p>(37) 3232-1101</p>
+            <p>(37) 3232-1101 <br/> (37) 3231-4780 </p>
           </div>
 
           <div className={styles['contact-detail']}>
             <img src="/assets/email.png" alt="E-mail" />
             <h1>E-mail</h1>
-            <p>contato@cartoriomarinho.com.br</p>
+            <p>contato@cartoriomarinho.com.br <br/> cartoriomarinhopm@gmail.com</p>
           </div>
 
           <div className={styles['contact-detail']}>
             <img src="/assets/whatsapp.png" alt="WhatsApp" />
             <h1>WhatsApp</h1>
-            <p>(37) 99975-4848 - Escritura <br /> (37) 99975-1013 - Reconhecimento </p>
+            <p>Escritura/Procuração <br /> (37) 99975-4848 <br/> Reconhecimento/Autenticação <br/> (37) 99975-1013  </p>
           </div>
 
         </div>
