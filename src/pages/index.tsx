@@ -89,7 +89,7 @@ const Home: NextPage = () => {
           <div className={styles['contact-detail']}>
             <img src="/assets/address.png" alt="Endereço" />
             <h1>Endereço</h1>
-            <p>Rua Delfim Moreira, 100 - Centro <br /> Pará de Minas - MG <br /> CEP: 35660-012 </p>
+            <p>Rua Manoel Batista, 149 - Centro <br /> Pará de Minas - MG <br /> CEP: 35660-049 </p>
           </div>
 
           <div className={styles['contact-detail']}>
@@ -113,7 +113,7 @@ const Home: NextPage = () => {
         </div>
         
         <div className={styles.map}>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.532269025872!2d-44.61005668473362!3d-19.859734186643095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa73bf2975dcb35%3A0xfad4fbdfce92379c!2sCART%C3%93RIO%202%C2%B0%20OFICIO%20DE%20NOTAS%20DE%20PAR%C3%81%20DE%20MINAS!5e0!3m2!1spt-BR!2sbr!4v1633453364924!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
+          <iframe src="hthttps://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.54659529597!2d-44.61018678942158!3d-19.859128581436334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa73bf2dc18f0cf%3A0xd80655bd6407c9df!2sR.%20Manoel%20Batista%2C%20149%20-%20Centro%2C%20Par%C3%A1%20de%20Minas%20-%20MG%2C%2035660-049!5e0!3m2!1spt-BR!2sbr!4v1742558877099!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
         </div>
 
       </article>
