@@ -77,7 +77,6 @@ const Home: NextPage = () => {
         <div className={styles.about}>
           <img src="/images/about.webp" alt="Imagem do Cartório Marinho" />
           <p>
-            <p>— Tradição!</p>
             Desde 1883 o Cartório do Segundo Ofício de Notas – “Cartório Marinho” presta serviços ao público na área notarial, com Escrituras Públicas de Compra e Venda, Escritura Pública de Reconhecimento de Paternidade, Escritura Pública de Emancipação, Procurações Públicas, Testamentos Públicos, Testamentos Cerrados, Inventários, Autenticação de Documento, Reconhecimento de Firmas, Atas Notariais, Autenticações Eletrônicas, Autorizações para Viagens entre outros atos notariais. <br />
             Aqui, você é atendido com toda segurança jurídica, por funcionários competentes e qualificados, em um ambiente agradável, com comodidade e com estrutura informatizada.
           </p>
@@ -113,7 +112,7 @@ const Home: NextPage = () => {
         </div>
         
         <div className={styles.map}>
-          <iframe src="hthttps://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.54659529597!2d-44.61018678942158!3d-19.859128581436334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa73bf2dc18f0cf%3A0xd80655bd6407c9df!2sR.%20Manoel%20Batista%2C%20149%20-%20Centro%2C%20Par%C3%A1%20de%20Minas%20-%20MG%2C%2035660-049!5e0!3m2!1spt-BR!2sbr!4v1742558877099!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.54659529597!2d-44.61018678942158!3d-19.859128581436334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa73bf2dc18f0cf%3A0xd80655bd6407c9df!2sR.%20Manoel%20Batista%2C%20149%20-%20Centro%2C%20Par%C3%A1%20de%20Minas%20-%20MG%2C%2035660-049!5e0!3m2!1spt-BR!2sbr!4v1742558877099!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
         </div>
 
       </article>

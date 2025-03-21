@@ -9,18 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "11.1.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "next": "15.2.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-modal": "^3.14.3",
     "sass": "^1.42.1",
     "swiper": "^7.0.8"
   },
   "devDependencies": {
-    "@types/react": "17.0.27",
+    "@types/node": "22.13.11",
+    "@types/react": "19.0.12",
     "@types/react-modal": "^3.12.1",
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2",
-    "typescript": "4.4.3"
+    "eslint": "9.22.0",
+    "eslint-config-next": "15.2.3",
+    "typescript": "5.8.2"
   }
 }
