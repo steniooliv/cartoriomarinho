@@ -39,23 +39,23 @@ const Home: NextPage = () => {
           navigation={true}
         >
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b1.webp" alt="" />
+            <img src="/images/b1.png" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b2.webp" alt="" />
+            <img src="/images/b2.png" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b3.webp" alt="" />
+            <img src="/images/b3.png" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b4.webp" alt="" />
+            <img src="/images/b4.png" alt="" />
           </SwiperSlide>
 
           <SwiperSlide className={styles['swiper-slide']}>
-            <img src="/images/b5.webp" alt="" />
+            <img src="/images/b5.png" alt="" />
           </SwiperSlide>
 
         </Swiper>
@@ -75,7 +75,7 @@ const Home: NextPage = () => {
         <h2 id="about">QUEM SOMOS</h2>
 
         <div className={styles.about}>
-          <img src="/images/about.webp" alt="Imagem do Cartório Marinho" />
+          <img src="/images/about.png" alt="Imagem do Cartório Marinho" />
           <p>
             Desde 1883 o Cartório do Segundo Ofício de Notas – “Cartório Marinho” presta serviços ao público na área notarial, com Escrituras Públicas de Compra e Venda, Escritura Pública de Reconhecimento de Paternidade, Escritura Pública de Emancipação, Procurações Públicas, Testamentos Públicos, Testamentos Cerrados, Inventários, Autenticação de Documento, Reconhecimento de Firmas, Atas Notariais, Autenticações Eletrônicas, Autorizações para Viagens entre outros atos notariais. <br />
             Aqui, você é atendido com toda segurança jurídica, por funcionários competentes e qualificados, em um ambiente agradável, com comodidade e com estrutura informatizada.
@@ -118,7 +118,7 @@ const Home: NextPage = () => {
       </article>
 
       <footer className={styles.footer}>
-        <p>Copyright 2021 - Todos os Direitos Reservados - Developed by <a href="https://www.steniooliv.com">steniooliv</a></p>
+        <p>Copyright 2025 - Todos os Direitos Reservados - Developed by <a href="https://www.steniooliv.com">steniooliv</a></p>
       </footer>
 
     </>
